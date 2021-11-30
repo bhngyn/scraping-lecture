@@ -4,6 +4,8 @@
 
 First, fork the repo at https://github.com/soooh/scraping-lecture. Then follow these steps, replacing _username_ below with your GitHub username.
 
+some more text
+
 ```sh
 % cd coding
 % git clone git@github.com:username/scraping-lecture.git
